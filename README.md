@@ -1,5 +1,5 @@
 # test_work
-this repo is temporary used for test job
+this repo is temporary used for the test job
 
 Задача состоит из двух подзадач:
 1. Кластеризация картинок
